@@ -16,14 +16,17 @@ Ensure the following are installed and properly configured:
 
 ### Installation
 1. Clone the repository:
+   
    ```sh
    git clone https://github.com/your-username/Hotel-Reservation-System.git
 
 3. Navigate to the project directory:
+   
    ```sh
    cd Hotel-Reservation-System
 
 5. Compile and run the application:
+   
    ```sh
    javac HotelReservationSystem.java  
    java HotelReservationSystem
