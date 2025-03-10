@@ -45,4 +45,3 @@ Ensure the following are installed and properly configured:
 Contributions are welcome! Feel free to submit a pull request or report any issues.
 
 ### Enjoy seamless reservations and feel free to visit again! 🌟
-🌆 Enjoy seamless reservations and feel free to visit again! 🌟
