@@ -18,7 +18,7 @@ Ensure the following are installed and properly configured:
 1. Clone the repository:
    
    ```sh
-   git clone https://github.com/your-username/Hotel-Reservation-System.git
+   git clone https://github.com/Gaurav9540/Hotel-Reservation-System.git
 
 3. Navigate to the project directory:
    
