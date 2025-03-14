@@ -2,10 +2,13 @@
 The Hotel Reservation System is a user-friendly and efficient application developed using Java and MySQL. It streamlines the process of managing hotel bookings, enabling users to create, view, modify, and cancel reservations with ease. Designed for small hotels and guesthouses, this system provides a reliable and organized approach to hotel management.
 
 ## Features 🌟
-✅ **Reserve a Room:** Create new reservations by selecting room type, check-in/check-out dates, and guest details.
-✅ **View Reservations:** Display all active and upcoming reservations, including guest names, room numbers, and booking dates.
-✅ **Update Reservations:** Modify existing reservations, including guest details, room type, and reservation dates.
-✅ **Cancel Reservations:** Remove reservations and update room availability in real-time.
+✅ **Reserve a Room:** Create new reservations by selecting room type, check-in/check-out dates, and guest details. <br>
+
+✅ **View Reservations:** Display all active and upcoming reservations, including guest names, room numbers, and booking dates. <br>
+
+✅ **Update Reservations:** Modify existing reservations, including guest details, room type, and reservation dates. <br>
+
+✅ **Cancel Reservations:** Remove reservations and update room availability in real-time. <br>
 
 # Getting Started 🚀
 ### Prerequisites
